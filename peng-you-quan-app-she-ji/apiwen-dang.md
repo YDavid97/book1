@@ -414,7 +414,7 @@
 
 ## 13.获取全部消息
 
-访问路径URL:  [http://192.168.127.1:8080/api/](http://192.168.127.1:8080/api/login)getNews
+访问路径URL:  [http://192.168.127.1:8080/api/](http://192.168.127.1:8080/api/login)getAllNews
 
 请求方式：GET
 
