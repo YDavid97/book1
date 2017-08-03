@@ -383,7 +383,7 @@
 
 ## 12.忘记密码
 
-访问路径URL:  [http://192.168.127.1:8080/api/forgetPassword](http://192.168.127.1:8080/api/login)
+访问路径URL:  [http://192.168.127.1:8080/api/forgotPassword](http://192.168.127.1:8080/api/login)
 
 请求方式：POST
 
@@ -466,6 +466,8 @@
     ]
 }
 ```
+
+
 
 
 
