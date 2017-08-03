@@ -354,7 +354,7 @@
 
 ## 11.关注好友
 
-访问路径URL:  [http://192.168.127.1:8080/api/](http://192.168.127.1:8080/api/login)postUserInfo
+访问路径URL:  [http://192.168.127.1:8080/api/](http://192.168.127.1:8080/api/login)friendsConcerned
 
 请求方式：POST
 
