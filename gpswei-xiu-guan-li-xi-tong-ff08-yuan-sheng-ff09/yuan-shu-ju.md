@@ -27,7 +27,9 @@
 
 ```
 {
-
+    orderCount, //订单数
+    orderfinishedCount,  //订单完成的数量
+    list,  //订单的集合
 }
 ```
 
@@ -35,7 +37,11 @@
 
 ```
 {
-
+    orderId,  //订单号
+    orderAddress,  //订单地址
+    orderDate,  //订单日期
+    X  //终点的经度
+    Y  //终点的纬度
 }
 ```
 
