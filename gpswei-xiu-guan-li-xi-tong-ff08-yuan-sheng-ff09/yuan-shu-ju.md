@@ -49,8 +49,8 @@
 
 ```
 {
-    orderId:
-    content:
+    orderId: //订单号
+    content: 
     state: 
 }
 ```
