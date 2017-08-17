@@ -22,3 +22,8 @@
   * [元数据设计](peng-you-quan-app-she-ji/yuan-shu-ju-she-ji.md)
   * [数据服务对象（Manager）设计](peng-you-quan-app-she-ji/shu-ju-fu-wu-dui-xiang.md)
 
+## GPS维修管理系统（原生）
+
+* 设计稿
+  * [元数据](gpswei-xiu-guan-li-xi-tong-ff08-yuan-sheng-ff09/yuan-shu-ju.md)
+
