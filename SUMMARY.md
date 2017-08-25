@@ -26,4 +26,5 @@
 
 * 设计稿
   * [元数据](gpswei-xiu-guan-li-xi-tong-ff08-yuan-sheng-ff09/yuan-shu-ju.md)
+  * [API文档](gpswei-xiu-guan-li-xi-tong-ff08-yuan-sheng-ff09/apiwen-dang.md)
 
